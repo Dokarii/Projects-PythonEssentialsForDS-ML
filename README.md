@@ -7,6 +7,7 @@ Small projects built while learning Python fundamentals as part of my Data Scien
 | # | Project | Description |
 |---|---------|-------------|
 | 01 | USD to EUR Converter | Currency converter using real exchange rate logic |
+| 02 | Text Analizer | Analyze a sentence provided by the user |
 
 ## Tools
 - Python 3
